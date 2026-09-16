@@ -1,0 +1,8 @@
+# Configuraciones locales
+.env
+.env.*
+config.local.php
+
+# Sistema
+.DS_Store
+Thumbs.db
